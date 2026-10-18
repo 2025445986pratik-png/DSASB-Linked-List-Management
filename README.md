@@ -62,4 +62,7 @@ DSASB/
 - Practice Java classes, methods, loops, and conditional statements.
 
 ## Author
-Student Project
+**Pratik Kumar**
+
+B.Tech Student  
+Project: Linked List Management System using Java
